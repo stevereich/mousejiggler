@@ -4,7 +4,7 @@ You can run this program  from the USB Drive or, copy one or both files to a pla
 
 ## Download
 
-*__The compiled exe file is not signed and may throw a security error with your antivirus software or web browser__*. It is safe to download and run, but if you prefer to run the [uncompiled AutoHotKey script](https://github.com/stevereich/mousejiggler/raw/master/MouseJiggler.ahk), you can download it instead. Please note, you will need to have [AutoHotKey](https://github.com/Lexikos/AutoHotkey_L/) installed on your computer for the uncompiled script to work.
+*__The compiled exe file is not digitally signed and may throw a download security error in your web browser__*. It is safe to download and run, but if you prefer to run the [uncompiled AutoHotKey script](https://github.com/stevereich/mousejiggler/raw/master/MouseJiggler.ahk), you can download it instead. Please note, you will need to have [AutoHotKey](https://github.com/Lexikos/AutoHotkey_L/) installed on your computer for the uncompiled script to work.
 
 * [MouseJiggler32.exe](https://github.com/stevereich/mousejiggler/raw/master/MouseJiggler32.exe) (will work on 32 and 64 bit Windows systems)
 * [MouseJiggler64.exe](https://github.com/stevereich/mousejiggler/raw/master/MouseJiggler64.exe) (will work only on 64 bit Windows systems)
