@@ -17,9 +17,10 @@ It will be listed under System Type.
 
 ---
 
-[GIT Repository](https://github.com/stevereich/mousejiggler)
-
-<p align="center"><img src="mouse.png"></p>
+<p align="center">
+  <a href="https://github.com/stevereich/mousejiggler">GIT Repository</a><br />
+  <img src="mouse.png">
+</p>
 
 
 
