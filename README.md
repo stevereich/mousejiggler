@@ -19,7 +19,7 @@ It will be listed under System Type.
 
 [GIT Repository](https://github.com/stevereich/mousejiggler)
 
-<center><img src="mouse.png"></center>
+<p align="center"><img src="mouse.png"></p>
 
 
 
