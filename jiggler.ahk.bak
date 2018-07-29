@@ -105,7 +105,7 @@ GuiClose:
 return
 
 hideIcon:
-	tip = The tray icon is now hidden. Run is %A_ScriptName% again to restore it.
+	tip = The tray icon is now hidden. Run is %A_ScriptName% again to restore.
 	TrayTip, %appName%, %tip%, 5, 17
 	sleep, 5000
     Menu, tray, NoIcon
