@@ -2,7 +2,7 @@
 
 You can run this program  from the USB Drive or, copy one or both files to a place on your hard drive (i.e My Documents) and run from there. There will be a tray icon (bottom  left corner by the clock) that you can right click on for the option to run on startup, pause/resume, and exit. The jiggler will quickly move your mouse a small amount and then back to the original position, every minute your computer is idle. It can run while you work and will not get in your way. You can set it and forget it!
 
-#### Download
+### Download
 
 *__The compiled exe file is not signed and may throw a security error with your antivirus software or web browser__*. It is safe to download and run, but if you prefer to run the [uncompiled AutoHotKey script](https://github.com/stevereich/mousejiggler/raw/master/MouseJiggler.ahk), you can download it instead. Please note, you will need to have [AutoHotKey](https://github.com/Lexikos/AutoHotkey_L/) installed on your computer for the uncompiled script to work.
 
