@@ -6,6 +6,8 @@ You can run this program  from the USB Drive or, copy one or both files to a pla
 
 [MouseJiggler64.exe](https://github.com/stevereich/mousejiggler/raw/master/MouseJiggler64.exe) (will work only on 64 bit Windows systems)
 
+[MouseJiggler.zip](https://github.com/stevereich/mousejiggler/raw/master/MouseJiggler.zip) (contains both versions)
+
 ---
 
 ### Which version of Windows do I have?
