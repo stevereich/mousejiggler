@@ -21,7 +21,6 @@ Menu, tray, tip, Active
 
 Menu, tray, add, Pause Jiggler, PauseJiggle
 Menu, tray, add, Run on Startup, startUpReg
-Menu, tray, add, Hide Icon, hideIcon
 Menu, tray, add
 Menu, tray, add, About..., GuiOpen
 Menu, tray, add, Exit, exitHandler
@@ -103,14 +102,6 @@ return
 GuiClose:
 	Gui, Cancel
 return
-
-hideIcon:
-	tip = The tray icon is now hidden. Run %A_ScriptName% again to restore it.
-	TrayTip, %appName%, %tip%, 5, 17
-	sleep, 5000
-    Menu, tray, NoIcon
-return
-
 
 exitHandler:
 	ExitApp
