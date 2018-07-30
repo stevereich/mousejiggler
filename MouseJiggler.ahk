@@ -1,5 +1,5 @@
 #Persistent
-#SingleInstance force
+#SingleInstance ignore
 
 SetTimer, MoveMouse, 1000
 
