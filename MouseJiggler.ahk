@@ -4,7 +4,7 @@
 SetTimer, MoveMouse, 1000
 
 appName = Mouse Jiggler
-appVersion = v1.0
+appVersion = v1.2.00
 jiggleTime = 60000
 
 Gui,  -MinimizeBox -Resize
@@ -49,6 +49,7 @@ if (ErrorLevel = 0) {
 
 RegRead, startUp, HKCU, SOFTWARE\Microsoft\Windows\CurrentVersion\Run, %appName%
 if (ErrorLevel = 0) {
+    RegWrite, REG_SZ, HKCU, SOFTWARE\Microsoft\Windows\CurrentVersion\Run, %appName%, %A_ScriptFullPath%
 	Menu, Tray, Check, Run on Startup
 }
 
